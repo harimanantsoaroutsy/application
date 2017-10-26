@@ -1,0 +1,63 @@
+.corps{
+height:700px;
+overflow:auto;
+box-shadow:1px 1px 10px #730800;
+border-radius:15px 1px 15px 1px;
+}
+.menu{
+background-image:linear-gradient(30deg,#730800,black);
+box-shadow:1px 1px 10px black;
+}
+a{
+color:white;
+text-shadow:0px 0px 5px black;
+}
+.champ{
+width:200px;
+}
+.bouton{
+font-size:25px;
+height:30px;
+line-height:0;
+}
+#mondiv{
+margin:10px;
+}
+#btnsuppr{
+width:25px;
+}
+.btn_td{
+text-align:center;
+}
+.lab{
+margin-top:5px;
+}
+.push{
+margin-right:50px;
+}
+/*-------------*/
+.corps1{
+	background: url(../images/fond8.jpg);
+	height: 882px;
+}
+.forme{
+	height:45px !important;
+	width:300px !important;
+	border-radius:0 0 0 0 !important;
+	border:solid 3px black !important;
+	margin:15px !important;
+	opacity: 0.5 !important;
+}
+.forme-component{
+	margin-top: 35% !important;
+}
+.gnote{
+	text-align: right;
+	margin-top: 30%;
+}
+
+.btn1{
+	opacity: 1 !important;
+	border:none !important;
+	background: grey;
+}
